@@ -1,10 +1,7 @@
-Task 1: Working with Data
-
 **Task 1: Working with Data**
 
-🚗 GPS Tracking Data Analysis
 **🚗 GPS Tracking Data Analysis**
-This project analyzes a GPS Tracking Dataset using Python and several data science libraries to extract valuable insights about vehicle behavior and performance metrics like speed, fuel levels, tire pressure, and more.
+        This project analyzes a GPS Tracking Dataset using Python and several data science libraries to extract valuable insights about vehicle behavior and             performance metrics like speed, fuel levels, tire pressure, and more.
 
 **📁 Project Structure**
     Data Loading
